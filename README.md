@@ -106,4 +106,4 @@ root
     |   particle_filter.cpp
     |   particle_filter.h
 ```
-![home/CarND-Kidnapped-Vehicle-Project](kidnapped_vehicle.gif)
+![alt text](https://github.com/SmritiUMD/Udacity--Self-DrivingCarND-KidnappedVehicle-P5/blob/master/home/CarND-Kidnapped-Vehicle-Project/kidnapped_vehicle.gif)
